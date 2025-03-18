@@ -17,3 +17,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bx33661/bx33661/output/github-contribution-grid-snake.svg">
 </picture>
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
