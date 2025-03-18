@@ -11,5 +11,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bx33661)
 
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bx33661/bx33661/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bx33661/bx33661/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bx33661/bx33661/output/github-contribution-grid-snake.svg">
+</picture>
 
