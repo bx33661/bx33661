@@ -19,5 +19,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [GHCTF2025-WEB-复现](http://localhost:8080/archives/ghctf2025-web-fu-xian)
+- [Unicode记录](http://localhost:8080/archives/unicodeji-lu)
+- [HNCTF Jail---沙盒逃逸题目--2](http://localhost:8080/archives/hnctf-jail---sha-he-tao-yi-ti-mu--2)
+- [HNCTF Jail---沙盒逃逸--1](http://localhost:8080/archives/hnctf-jail---sha-he-tao-yi--1)
+- [Pickle反序列化](http://localhost:8080/archives/wei-ming-ming-wen-zhang)
 <!-- BLOG-POST-LIST:END -->
 
