@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm BX)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+BX)
+
 - 👋 Hi, I’m @bx33661
 - 👀 I’m interested in coding, artificial intelligence, and exploring new technologies.
 - 🌱 I’m currently improving my programming skills.
