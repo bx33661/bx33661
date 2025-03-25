@@ -19,10 +19,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [NCTF2025-WEB学习](http://localhost:8080/archives/nctf2025-webxue-xi)
 - [NSSround#28--web方向题解](http://localhost:8080/archives/nssround-28--webfang-xiang-ti-jie)
 - [GHCTF2025-WEB-复现](http://localhost:8080/archives/ghctf2025-web-fu-xian)
 - [Hgame2025](http://localhost:8080/archives/hgame2025)
 - [Unicode记录](http://localhost:8080/archives/unicodeji-lu)
-- [HNCTF Jail---沙盒逃逸题目--2](http://localhost:8080/archives/hnctf-jail---sha-he-tao-yi-ti-mu--2)
 <!-- BLOG-POST-LIST:END -->
 
