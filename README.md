@@ -19,10 +19,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [HTB-Craft](http://localhost:8080/archives/htb-craft)
+- [NewStarCTF2024 web week3-4-5](http://localhost:8080/archives/newstarctf2024-web-week3-4-5)
 - [PolarCTF2025-WEB](http://localhost:8080/archives/polarctf2025-web)
 - [NCTF2025-WEB学习](http://localhost:8080/archives/nctf2025-webxue-xi)
 - [NSSround#28--web方向题解](http://localhost:8080/archives/nssround-28--webfang-xiang-ti-jie)
-- [GHCTF2025-WEB-复现](http://localhost:8080/archives/ghctf2025-web-fu-xian)
-- [Hgame2025](http://localhost:8080/archives/hgame2025)
 <!-- BLOG-POST-LIST:END -->
 
