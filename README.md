@@ -19,10 +19,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [demo](http://localhost:8080/archives/demo)
 - [HTB-Passage学习分析](http://localhost:8080/archives/htb-passage)
 - [HTB-Craft](http://localhost:8080/archives/htb-craft)
 - [NewStarCTF2024 web week3-4-5](http://localhost:8080/archives/newstarctf2024-web-week3-4-5)
 - [PolarCTF2025-WEB](http://localhost:8080/archives/polarctf2025-web)
-- [NCTF2025-WEB学习](http://localhost:8080/archives/nctf2025-webxue-xi)
 <!-- BLOG-POST-LIST:END -->
 
