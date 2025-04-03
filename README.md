@@ -19,10 +19,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe--challenges-Lookup](https://www.bx33661.com/archives/tryhackme--challenges-lookup)
 - [HTB-Cap-linux](https://www.bx33661.com/archives/htb-cap-linux)
 - [HTB-Passage学习分析](https://www.bx33661.com/archives/htb-passage)
 - [HTB-Craft](https://www.bx33661.com/archives/htb-craft)
 - [NewStarCTF2024 web week3-4-5](https://www.bx33661.com/archives/newstarctf2024-web-week3-4-5)
-- [PolarCTF2025-WEB](https://www.bx33661.com/archives/polarctf2025-web)
 <!-- BLOG-POST-LIST:END -->
 
