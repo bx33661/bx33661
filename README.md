@@ -19,6 +19,6 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Hello Halo](http://www.bx33661.com/archives/hello-halo)
+- [LitCTF2025-WP](http://www.bx33661.com/archives/2025litctf)
 <!-- BLOG-POST-LIST:END -->
 
