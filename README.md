@@ -19,10 +19,6 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [核心TCP/IP 协议学习](https://www.bx33661.com/archives/he-xin-tcp-ip-xie-yi-xue-xi)
-- [TryHackMe--challenges-Lookup](https://www.bx33661.com/archives/tryhackme--challenges-lookup)
-- [HTB-Cap-linux](https://www.bx33661.com/archives/htb-cap-linux)
-- [HTB-Passage学习分析](https://www.bx33661.com/archives/htb-passage)
-- [HTB-Craft](https://www.bx33661.com/archives/htb-craft)
+- [Hello Halo](http://www.bx33661.com/archives/hello-halo)
 <!-- BLOG-POST-LIST:END -->
 
