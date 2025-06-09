@@ -19,6 +19,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [D^3CTF2025](http://www.bx33661.com/archives/d-3ctf2025)
+- [Swagger泄露利用](http://www.bx33661.com/archives/swaggerxie)
+- [Webpack 渗透思路](http://www.bx33661.com/archives/webpack)
 - [LitCTF2025-WP](http://www.bx33661.com/archives/2025litctf)
 <!-- BLOG-POST-LIST:END -->
 
