@@ -19,10 +19,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Next.js中间件授权绕过漏洞-CVE-2025-29927](http://www.bx33661.com/archives/cve-2025-29927)
-- [对象云存储 - learning](http://www.bx33661.com/archives/dui-xiang-yun-cun-chu)
-- [储存桶的安全应用问题--learning](http://www.bx33661.com/archives/chucun)
-- [&quot;轩辕杯&quot;云盾砺剑&quot; 2025 CTF](http://www.bx33661.com/archives/xuan-yuan-bei-yun-dun-li-jian-2025-ctf)
-- [D^3CTF2025](http://www.bx33661.com/archives/d-3ctf2025)
+- [L3hCTF](https://www.bpple.com/blog/k8x9w2m7/)
+- [Next.js中间件授权绕过漏洞-CVE-2025-29927](https://www.bpple.com/blog/k8x9w55/)
 <!-- BLOG-POST-LIST:END -->
 
