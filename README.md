@@ -19,10 +19,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Python新人学习-安全分析-第一部分](https://www.bpple.com/blog/z8x9w23/)
 - [储存桶的安全应用问题](https://www.bpple.com/blog/k8x10w24/)
 - [蚁剑流量分析和溯源](https://www.bpple.com/blog/k8x9w23/)
 - [Windows应急响应和安全](https://www.bpple.com/blog/k8x9w2m8/)
 - [2025轩辕杯-WP](https://www.bpple.com/blog/k8x9w26/)
-- [简单链接测试](https://www.bpple.com/blog/12j92n10/)
 <!-- BLOG-POST-LIST:END -->
 
