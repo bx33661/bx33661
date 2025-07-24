@@ -19,10 +19,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Go下template的SSTI分析](https://www.bx33661.com/blog/bx1go/)
 - [Xpath注入学习和分析](https://www.bx33661.com/blog/bx33661xpath/)
+- [HTTP请求走私研究与分析](https://www.bx33661.com/blog/bx33661http/)
 - [Dom树学习分析](https://www.bx33661.com/blog/bx33661dom/)
 - [Python新人学习-安全分析-第一部分](https://www.bx33661.com/blog/z8x9w23/)
-- [储存桶的安全应用问题](https://www.bx33661.com/blog/k8x10w24/)
-- [蚁剑流量分析和溯源](https://www.bx33661.com/blog/k8x9w23/)
 <!-- BLOG-POST-LIST:END -->
 
