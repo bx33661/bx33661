@@ -1,12 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+BX)
 
-- 👋 Hi, I’m @bx33661
-- 👀 I’m interested in coding, artificial intelligence, and exploring new technologies.
-- 🌱 I’m currently improving my programming skills.
-- 💞️ I’m looking to collaborate on open-source projects related to AI or web development.
-- 📫 You can reach me via email at bx33661@google.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a huge fan of sci-fi movies and enjoy spending my free time hiking in nature.
+- 👋 Hi, I’m @bx33661  
+- 🎓 I’m currently a university student majoring in Information Security.  
+- 🔐 I’m passionate about web security, ethical hacking, and exploring emerging technologies.  
+- 💡 I’m actively learning and building my skills in cybersecurity and modern web tech.  
+- 🤝 I’m looking to collaborate on open-source projects related to web security or AI.  
+- 📫 Reach me at: bx33661@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Let’s witness the stars and the sea together.  
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bx33661&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
