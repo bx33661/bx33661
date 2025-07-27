@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [HTTP响应拆分漏洞分析](https://www.bx33661.com/blog/bxhttpSplit/)
 - [Go下template的SSTI分析](https://www.bx33661.com/blog/bx1go/)
 - [Xpath注入学习和分析](https://www.bx33661.com/blog/bx33661xpath/)
 - [HTTP请求走私研究与分析](https://www.bx33661.com/blog/bx33661http/)
 - [Dom树学习分析](https://www.bx33661.com/blog/bx33661dom/)
-- [Python新人学习-安全分析-第一部分](https://www.bx33661.com/blog/z8x9w23/)
 <!-- BLOG-POST-LIST:END -->
 
