@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [HTTP响应拆分漏洞分析](https://www.bx33661.com/blog/bxhttpSplit/)
 - [Go下template的SSTI分析](https://www.bx33661.com/blog/bx1go/)
-- [HTTP请求走私研究与分析](https://www.bx33661.com/blog/bx33661http/)
 - [Xpath注入学习和分析](https://www.bx33661.com/blog/bx33661xpath/)
+- [HTTP请求走私研究与分析](https://www.bx33661.com/blog/bx33661http/)
 - [Dom树学习分析](https://www.bx33661.com/blog/bx33661dom/)
 <!-- BLOG-POST-LIST:END -->
 
