@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Pass The Hash攻击学习](https://www.bx33661.com/blog/passthehash/)
+- [春秋云境-Tsclient](https://www.bx33661.com/blog/tsclient/)
 - [春秋云境-Brute4Road](https://www.bx33661.com/blog/brute4road/)
 - [HTTP响应拆分漏洞分析](https://www.bx33661.com/blog/bxhttpSplit/)
 - [Go下template的SSTI分析](https://www.bx33661.com/blog/bx1go/)
-- [HTTP请求走私研究与分析](https://www.bx33661.com/blog/bx33661http/)
-- [Xpath注入学习和分析](https://www.bx33661.com/blog/bx33661xpath/)
 <!-- BLOG-POST-LIST:END -->
 
