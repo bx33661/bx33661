@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OWAP-juice-shop靶场学习](https://www.bx33661.com/blog/juice-shop/)
+- [Jenkins凭证破解&amp;敏感信息获取](https://www.bx33661.com/blog/jenkins-credential-crack/)
 - [Pass The Hash攻击学习](https://www.bx33661.com/blog/passthehash/)
 - [春秋云境-Tsclient](https://www.bx33661.com/blog/tsclient/)
-- [Jenkins凭证破解&amp;敏感信息获取](https://www.bx33661.com/blog/jenkins-credential-crack/)
 - [春秋云境-Brute4Road](https://www.bx33661.com/blog/brute4road/)
-- [HTTP响应拆分漏洞分析](https://www.bx33661.com/blog/bxhttpSplit/)
 <!-- BLOG-POST-LIST:END -->
 
