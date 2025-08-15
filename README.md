@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [OWAP-juice-shop靶场学习](https://www.bx33661.com/blog/juice-shop/)
 - [Jenkins凭证破解&amp;敏感信息获取](https://www.bx33661.com/blog/jenkins-credential-crack/)
+- [MCP学习--Model Context Protocol](https://www.bx33661.com/blog/mcp1/)
 - [Pass The Hash攻击学习](https://www.bx33661.com/blog/passthehash/)
 - [春秋云境-Tsclient](https://www.bx33661.com/blog/tsclient/)
-- [春秋云境-Brute4Road](https://www.bx33661.com/blog/brute4road/)
 <!-- BLOG-POST-LIST:END -->
 
