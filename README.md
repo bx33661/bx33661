@@ -23,8 +23,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [MCP安全应用和问题](https://www.bx33661.com/blog/mcp-security/)
 - [OWAP-juice-shop靶场学习](https://www.bx33661.com/blog/juice-shop/)
-- [MCP学习--Model Context Protocol](https://www.bx33661.com/blog/mcp1/)
 - [Jenkins凭证破解&amp;敏感信息获取](https://www.bx33661.com/blog/jenkins-credential-crack/)
+- [MCP学习--Model Context Protocol](https://www.bx33661.com/blog/mcp1/)
 - [Pass The Hash攻击学习](https://www.bx33661.com/blog/passthehash/)
 <!-- BLOG-POST-LIST:END -->
 
