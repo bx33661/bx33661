@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [深入理解P2P网络与BitTorrent协议：去中心化文件共享的技术原理](https://www.bx33661.com/blog/p2p-bittorrent-protocol-deep-dive/)
 - [SSJI服务器端JavaScript代码注入学习与实践](https://www.bx33661.com/blog/ssji-learning/)
 - [CSP规则绕过与题目分析](https://www.bx33661.com/blog/csp-bypass-analysis/)
 - [缓存机制学习&amp;缓存投毒](https://www.bx33661.com/blog/nginx-cache-poisoning/)
 - [HTB-CTF Challenge做题记录](https://www.bx33661.com/blog/htb-challenge/)
-- [HTB-CTF Try Out分析与题解](https://www.bx33661.com/blog/htb-ctf/)
 <!-- BLOG-POST-LIST:END -->
 
