@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [OpenCode漏洞复现&lpar;CVE-2026-22812&rpar;](https://www.bx33661.com/blog/opencode-vulnerability-analysis/)
 - [CodeQL第一弹-数据库创建与查询](https://www.bx33661.com/blog/codeql-learning/)
 - [基于以太坊测试网络的DEX合约发布和学习](https://www.bx33661.com/blog/ethereum-dex-sepolia/)
 - [基于TinyStories的LLM-attack &amp; Hackergame-GCG攻击学习](https://www.bx33661.com/blog/llm-attack-hackergame/)
 - [Spring学习与分析 - 从Servlet到SpringBoot的演进](https://www.bx33661.com/blog/spring-learning-analysis/)
-- [Dify&amp;Coze工作流搭建](https://www.bx33661.com/blog/dify-coze-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
