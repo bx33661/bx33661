@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [HnuCTF2026竞赛平台搭建和运维记录](https://www.bx33661.com/blog/hnuctf-2026-ops/)
 - [Denial of Service &lpar;DoS&rpar; at psitransfer](https://www.bx33661.com/blog/dos-at-psitransfer/)
 - [CVE-2025-68613: n8n 表达式注入导致远程代码执行漏洞分析与复现](https://www.bx33661.com/blog/n8n-cve-2025-68613-analysis/)
 - [OpenCode漏洞复现&lpar;CVE-2026-22812&rpar;](https://www.bx33661.com/blog/opencode-vulnerability-analysis/)
 - [CodeQL第一弹-数据库创建与查询](https://www.bx33661.com/blog/codeql-learning/)
-- [基于以太坊测试网络的DEX合约发布和学习](https://www.bx33661.com/blog/ethereum-dex-sepolia/)
 <!-- BLOG-POST-LIST:END -->
 
