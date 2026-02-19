@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [K8s Goat 靶场实战记录](https://www.bx33661.com/blog/k8s-goat-walkthrough/)
 - [Redis 与 Lua 脚本（Part 2）](https://www.bx33661.com/blog/redis-lua-script-part2/)
 - [Redis与缓存Part1](https://www.bx33661.com/blog/redis-core-guide/)
 - [HnuCTF2026竞赛平台搭建和运维记录](https://www.bx33661.com/blog/hnuctf-2026-ops/)
 - [Denial of Service &lpar;DoS&rpar; at psitransfer](https://www.bx33661.com/blog/dos-at-psitransfer/)
-- [CVE-2025-68613: n8n 表达式注入导致远程代码执行漏洞分析与复现](https://www.bx33661.com/blog/n8n-cve-2025-68613-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
