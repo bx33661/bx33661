@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Wiz Cloud Hunting Games 挑战复盘：一条完整的云上攻击链](https://www.bx33661.com/blog/wiz-cloud-hunting-games-writeup/)
 - [K8s Goat 靶场实战记录](https://www.bx33661.com/blog/k8s-goat-walkthrough/)
 - [Redis 与 Lua 脚本（Part 2）](https://www.bx33661.com/blog/redis-lua-script-part2/)
 - [Redis与缓存Part1](https://www.bx33661.com/blog/redis-core-guide/)
 - [HnuCTF2026竞赛平台搭建和运维记录](https://www.bx33661.com/blog/hnuctf-2026-ops/)
-- [Denial of Service &lpar;DoS&rpar; at psitransfer](https://www.bx33661.com/blog/dos-at-psitransfer/)
 <!-- BLOG-POST-LIST:END -->
 
