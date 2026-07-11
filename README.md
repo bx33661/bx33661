@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [oh-my-vul 1.0 设计与实践](https://www.bx33661.com/blog/oh-my-vul-1-0/)
 - [Claude Code Agent Teams 代码安全审计初体验](https://www.bx33661.com/blog/agent-teams/)
 - [Go net/http 源码学习：Server 与 Client 视角](https://www.bx33661.com/blog/go-net-http-source-analysis/)
 - [Wiz Cloud Hunting Games 挑战复盘：一条完整的云上攻击链](https://www.bx33661.com/blog/wiz-cloud-hunting-games-writeup/)
 - [K8s Goat 靶场实战记录](https://www.bx33661.com/blog/k8s-goat-walkthrough/)
-- [Redis 与 Lua 脚本（Part 2）](https://www.bx33661.com/blog/redis-lua-script-part2/)
 <!-- BLOG-POST-LIST:END -->
 
