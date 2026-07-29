@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [CNVD-2026-20654: LG NAS 远程命令注入漏洞分析](https://www.bx33661.com/blog/cnvd-2026-20654-lg-nas-rce/)
 - [oh-my-vul 1.0：证据优先的漏洞研究工作台](https://www.bx33661.com/blog/oh-my-vul-1-0/)
 - [Claude Code Agent Teams：多智能体代码安全审计](https://www.bx33661.com/blog/agent-teams/)
 - [Go net/http 源码阅读与安全相关点](https://www.bx33661.com/blog/go-net-http-source-analysis/)
 - [Wiz Cloud Hunting Games 解题记录](https://www.bx33661.com/blog/wiz-cloud-hunting-games-writeup/)
-- [Kubernetes Goat 靶场：密钥泄露到容器逃逸](https://www.bx33661.com/blog/k8s-goat-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
