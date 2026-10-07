@@ -21,10 +21,10 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket：从握手到消息重放](https://www.bx33661.com/blog/websocket-handshake-message-replay/)
 - [RASP 学习：从 Java Agent 到 OpenRASP SQL 注入检测与绕过](https://www.bx33661.com/blog/openrasp-sql-detect-bypass/)
 - [CyberGym: Beyond the Leaderboard](https://www.bx33661.com/blog/cybergym-ai-security-agent-benchmark/)
 - [Threat Model](https://www.bx33661.com/blog/threat-modeling-and-trust-boundaries/)
 - [微信小程序自动化审计：从解包到Agent智能分析](https://www.bx33661.com/blog/wechat-miniapp-security-audit/)
-- [CNVD-2026-20654: LG NAS 远程命令注入漏洞分析](https://www.bx33661.com/blog/cnvd-2026-20654-lg-nas-rce/)
 <!-- BLOG-POST-LIST:END -->
 
