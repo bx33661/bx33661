@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="560" viewBox="0 0 520 560" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Hey, I'm bx.</title>
+  <desc id="description">A little corner of the internet. Cybersecurity and LLMs. The orbital star map from bx33661.com.</desc>
+  <style>
+    :root { --paper: #F2F5EC; --ink: #353538; --muted: #59616B; --accent: #1158D1; }
+    @media (prefers-color-scheme: dark) {
+      :root { --paper: #131922; --ink: #E9EDF4; --muted: #AAB5C3; --accent: #78B8FF; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="field" x1="510" y1="20" x2="976" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101D35"/><stop offset=".58" stop-color="#344C7D"/><stop offset="1" stop-color="#19263F"/>
+    </linearGradient>
+    <radialGradient id="violet" cx=".76" cy=".12" r=".65">
+      <stop stop-color="#887BBD" stop-opacity=".9"/><stop offset="1" stop-color="#887BBD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="teal" cx=".36" cy=".75" r=".75">
+      <stop stop-color="#3C879A" stop-opacity=".9"/><stop offset="1" stop-color="#3C879A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#070F20" stop-opacity=".48"/><stop offset=".27" stop-color="#070F20" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#070F20" stop-opacity="0"/><stop offset="1" stop-color="#070F20" stop-opacity=".5"/>
+    </linearGradient>
+    <radialGradient id="orb-glass" cx=".32" cy=".24" r=".85">
+      <stop stop-color="#E3F1FF" stop-opacity=".2"/><stop offset=".65" stop-color="#B4D4ED" stop-opacity=".03"/><stop offset="1" stop-color="#091226" stop-opacity=".28"/>
+    </radialGradient>
+    <linearGradient id="orb-rim" x1="130" y1="80" x2="330" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6EDFF" stop-opacity=".7"/><stop offset=".5" stop-color="#D6EDFF" stop-opacity=".08"/><stop offset="1" stop-color="#D6EDFF" stop-opacity=".4"/>
+    </linearGradient>
+    <clipPath id="panel"><path d="M510 20H976V264A56 56 0 0 1 920 320H510Z"/></clipPath>
+  </defs>
+  <rect width="520" height="560" fill="var(--paper)"/>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="32" y="35" fill="var(--muted)" font-size="11" letter-spacing="1.2">A LITTLE CORNER OF THE INTERNET</text>
+    <circle cx="35" cy="204" r="2.5" fill="var(--accent)"/>
+    <text x="48" y="208" fill="var(--muted)" font-size="10" letter-spacing="1.2">CURIOSITY, IN ORBIT.</text>
+  </g>
+  <text x="28" y="120" fill="var(--ink)" font-family="Georgia, 'Times New Roman', serif" font-size="78" letter-spacing="-4">Hey, I'm</text>
+  <text x="320" y="120" fill="var(--accent)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="82" font-weight="600" letter-spacing="-6">bx.</text>
+  <text x="32" y="158" fill="var(--ink)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" letter-spacing="-.3">Welcome to my GitHub!</text>
+  <g transform="translate(-478 210)">
+  <g clip-path="url(#panel)">
+    <path d="M510 20H976V320H510Z" fill="url(#field)"/>
+    <path d="M510 20H976V320H510Z" fill="url(#violet)"/>
+    <path d="M510 20H976V320H510Z" fill="url(#teal)"/>
+    <path d="M510 20H976V320H510Z" fill="url(#shade)"/>
+    <svg x="510" y="20" width="466" height="300" viewBox="0 0 480 340" fill="none">
+      <circle cx="240" cy="170" r="139" stroke="#D5E6FC" stroke-opacity=".24" stroke-dasharray="1 9"/>
+      <path d="M240 16V48M240 292V324M86 170H118M362 170H394" stroke="#D5E6FC" stroke-opacity=".45" stroke-width=".7"/>
+      <circle cx="240" cy="170" r="91" fill="url(#orb-glass)" stroke="url(#orb-rim)"/>
+      <ellipse cx="240" cy="170" rx="154" ry="48" transform="rotate(-29 240 170)" stroke="#E2EDFF" stroke-opacity=".63" stroke-width=".75"/>
+      <ellipse cx="240" cy="170" rx="154" ry="48" transform="rotate(49 240 170)" stroke="#E2EDFF" stroke-opacity=".25" stroke-width=".75"/>
+      <path d="M133 222L195 140L252 190L313 89L359 145" stroke="#E0EDFC" stroke-opacity=".5" stroke-width=".7"/>
+      <g fill="#E0EDFC">
+        <circle cx="133" cy="222" r="2.5"/><circle cx="195" cy="140" r="3"/><circle cx="252" cy="190" r="2.5"/>
+        <circle cx="359" cy="145" r="2.5"/><circle cx="79" cy="92" r="1.5"/><circle cx="376" cy="249" r="1.5"/>
+        <circle cx="163" cy="278" r="1.5"/><circle cx="324" cy="279" r="1"/>
+        <path d="M313 77L316 86L325 89L316 92L313 101L310 92L301 89L310 86Z"/>
+        <circle cx="373" cy="96" r="4" stroke="#D9E8FF" stroke-width="5" stroke-opacity=".18"/>
+      </g>
+    </svg>
+    <g fill="#E0EDFC" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="8" letter-spacing="1">
+      <text x="530" y="46">BX / EXPLORATIONS</text>
+      <text x="948" y="47" font-size="13">✦</text>
+      <text x="530" y="300" font-size="7">CYBERSECURITY / LLMS</text>
+      <text x="954" y="300" font-size="7" text-anchor="end">01 — OPEN FIELD</text>
+    </g>
+  </g>
+  </g>
+</svg>
